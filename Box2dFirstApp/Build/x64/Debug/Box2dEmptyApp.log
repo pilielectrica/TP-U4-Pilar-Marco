@@ -1,0 +1,31 @@
+﻿  Game.cpp
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 4\Trabajo U4\MAVII-U2-EJ6\Box2dFirstApp\Src\bloque.h(32,27): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "../Src/Game.cpp")
+  
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 4\Trabajo U4\MAVII-U2-EJ6\Box2dFirstApp\Src\bloque.h(32,21): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "../Src/Game.cpp")
+  
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 4\Trabajo U4\MAVII-U2-EJ6\Box2dFirstApp\Src\Obstaculos.h(35,36): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "../Src/Game.cpp")
+  
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 4\Trabajo U4\MAVII-U2-EJ6\Box2dFirstApp\Src\Obstaculos.h(35,30): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "../Src/Game.cpp")
+  
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 4\Trabajo U4\MAVII-U2-EJ6\Box2dFirstApp\Src\Obstaculos.h(41,37): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "../Src/Game.cpp")
+  
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 4\Trabajo U4\MAVII-U2-EJ6\Box2dFirstApp\Src\Obstaculos.h(41,31): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  (compilando archivo de origen "../Src/Game.cpp")
+  
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 4\Trabajo U4\MAVII-U2-EJ6\Box2dFirstApp\Src\Game.cpp(27,30): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 4\Trabajo U4\MAVII-U2-EJ6\Box2dFirstApp\Src\Game.cpp(96,52): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 4\Trabajo U4\MAVII-U2-EJ6\Box2dFirstApp\Src\Game.cpp(96,52): warning C4244:         with
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 4\Trabajo U4\MAVII-U2-EJ6\Box2dFirstApp\Src\Game.cpp(96,52): warning C4244:         [
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 4\Trabajo U4\MAVII-U2-EJ6\Box2dFirstApp\Src\Game.cpp(96,52): warning C4244:             T=float
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 4\Trabajo U4\MAVII-U2-EJ6\Box2dFirstApp\Src\Game.cpp(96,52): warning C4244:         ]
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 4\Trabajo U4\MAVII-U2-EJ6\Box2dFirstApp\Src\Game.cpp(101,53): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 4\Trabajo U4\MAVII-U2-EJ6\Box2dFirstApp\Src\Game.cpp(101,53): warning C4244:         with
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 4\Trabajo U4\MAVII-U2-EJ6\Box2dFirstApp\Src\Game.cpp(101,53): warning C4244:         [
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 4\Trabajo U4\MAVII-U2-EJ6\Box2dFirstApp\Src\Game.cpp(101,53): warning C4244:             T=float
+D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 4\Trabajo U4\MAVII-U2-EJ6\Box2dFirstApp\Src\Game.cpp(101,53): warning C4244:         ]
+  Box2dEmptyApp.vcxproj -> D:\Tecnicatura En Diseño y Programacion de Videojuegos\MYAii\UNIDAD 4\Trabajo U4\MAVII-U2-EJ6\Box2dFirstApp\Bin\Debug\Box2dEmptyApp.exe
